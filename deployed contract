@@ -23,3 +23,4 @@ impl Counter for Contract {
         storage.counter = storage.counter + 1;
     }
 }
+bebebe test
